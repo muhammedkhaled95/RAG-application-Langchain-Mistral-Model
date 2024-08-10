@@ -4,7 +4,7 @@ The Mistral Bot is a tool designed to provide information by answering user quer
 
 ## Table of Contents
 
-- [Introduction] (#langchain-Mistral-RAG-App)
+- [Introduction](#langchain-Mistral-RAG-App)
 - [Table of Contents](#table-of-contents)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
